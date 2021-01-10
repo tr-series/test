@@ -1,1 +1,1 @@
-"document.body.style.backgroundColor=\"black\";document.body.style.color=\"white\";"
+$('button.vjs-cog-button.vjs-menu-button.vjs-button').remove();
