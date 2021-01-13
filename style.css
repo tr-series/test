@@ -1,3 +1,144 @@
 body {
-    background-color: blueviolet !important;
+    margin: 0 auto;
 }
+
+video::-webkit-media-controls-enclosure {
+    position: absolute !important;
+}
+
+video::-webkit-media-controls-panel {
+    background-image: linear-gradient(transparent, transparent) !important;
+    position: absolute !important;
+}
+
+video::-webkit-media-controls-overlay-play-button {
+    display: none !important;
+}
+
+video::-webkit-media-controls-play-button {
+    display: block !important;
+    position: fixed !important;
+    top: 50% !important;
+    left: 50% !important;
+    margin-top: -12px !important;
+    margin-left: 0px !important;
+    transform: translate(-50%, -50%) !important;
+
+    background-size: 10vw !important;
+    width: 15vw !important;
+    height: 10vw !important;
+    background-color: red !important;
+    border-radius: 2vw !important;
+}
+
+
+video::-webkit-media-controls-current-time-display {
+    position: fixed !important;
+    bottom: 24px !important;
+    left: 16px !important;
+    z-index: 999999999 !important;
+}
+
+video::-webkit-media-controls-time-remaining-display {
+    position: fixed !important;
+    bottom: 24px !important;
+    left: 64px !important;
+    z-index: 999999999 !important;
+}
+
+video::-webkit-media-controls-volume-control-container {
+    position: fixed !important;
+    top: 8px !important;
+    right: 8px !important;
+    z-index: 999999999 !important;
+
+    background-size: 32px !important;
+    width: 32px !important;
+    height: 32px !important;
+}
+
+video::-webkit-media-controls-fullscreen-button {
+    position: fixed !important;
+    bottom: 32px !important;
+    right: 16px !important;
+    z-index: 999999999 !important;
+
+
+    background-size: 32px !important;
+    width: 32px !important;
+    height: 32px !important;
+}
+
+video::-webkit-media-controls-timeline {
+    position: fixed !important;
+    bottom: 0px !important;
+    z-index: 999999999 !important;
+    width: calc(100% - 32px) !important;
+    left: 50% !important;
+    transform: translate(-50%, 0px) !important;
+}
+
+video::-internal-media-controls-download-button {
+    display: none !important;
+}
+
+
+video::-webkit-media-controls-timeline-container {}
+
+video::-webkit-media-controls-mute-button {}
+
+video::-webkit-media-controls-overlay-enclosure {}
+
+video::-webkit-media-controls-volume-slider-container {}
+
+video::-webkit-media-controls-volume-slider {}
+
+video::-webkit-media-controls-seek-back-button {}
+
+video::-webkit-media-controls-seek-forward-button {}
+
+video::-webkit-media-controls-rewind-button {}
+
+video::-webkit-media-controls-return-to-realtime-button {}
+
+video::-webkit-media-controls-toggle-closed-captions-button {}
+
+video::-internal-media-controls-download-button {}
+
+video::-internal-media-controls-overflow-button {}
+
+video::-internal-media-controls-cast-button {}
+
+video::-webkit-media-controls-fullscreen-volume-slider {}
+
+video::-webkit-media-controls-fullscreen-volume-min-button {}
+
+video::-webkit-media-controls-fullscreen-volume-max-button {}
+
+video::-webkit-media-controls-rewind-button {}
+
+video::-webkit-media-controls-closed-captions-container {}
+
+video::-webkit-media-controls-closed-captions-track-list {}
+
+
+
+video::-webkit-media-text-track-container {}
+
+video::cue {}
+
+video::-webkit-media-text-track-region {}
+
+video::-webkit-media-text-track-region-container {}
+
+video::-webkit-media-text-track-region-container.scrolling {}
+
+video::-webkit-media-text-track-display {}
+
+video::cue(:future) {}
+
+video::-webkit-media-text-track-container b {}
+
+video::-webkit-media-text-track-container u {}
+
+video::-webkit-media-text-track-container i {}
