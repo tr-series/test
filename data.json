@@ -1,11 +1,11 @@
 [
   {
     "url_series": "https://raw.githubusercontent.com/tr-series/tr/z_alm2ss_3thman/",
+    "testing_app": "false",
     "url_series_test": "mmmmmmmmmmmmmmmmmmmmmmmmmmmm",
     "url_privacy_policy": "https://ms-tr-series.blogspot.com/p/privacypolicy.html",
     "url_copyright": "https://ms-tr-series.blogspot.com/p/copyright.html",
     "url_share_app": "",
-    "is_testing_app": "false",
     "startApp_splash": "false",
     "startApp_interstitial": "false",
     "startApp_banner": "false",
