@@ -1,5 +1,11 @@
 [
 {
+    "category": [
+    {
+        "category_title": "مسلسلات تركية"
+    }]
+},
+{
     "setting": [
     {
         "url_slider": "https://raw.githubusercontent.com/tr-series/tr-ar/b_ms_group_turkish_ar_1_slider/",
