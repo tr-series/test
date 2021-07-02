@@ -18,10 +18,10 @@
   {
     "main_url": [
       {
-        "url": ""
+        "url": "https://raw.githubusercontent.com/tr-series/test/"
       },
       {
-        "url": "https://raw.githubusercontent.com/tr-series/test/ms_1_series/"
+        "url": ""
       },
       {
         "url": ""
@@ -41,23 +41,28 @@
     "category": [
       {
         "category_title": "مسلسلات تركية",
-        "url_category_slider": "https://raw.githubusercontent.com/tr-series/tr-ar/b_ms_group_turkish_ar_1_slider/",
-        "url_category_series": "https://raw.githubusercontent.com/tr-series/tr-ar/c_ms_group_turkish_ar_1_series_v2/"
+        "url_category_slider": "0_ms_1_slider/",
+        "url_category_series": "0_ms_1_series/"
       },
       {
         "category_title": "مسلسلات تركية",
-        "url_category_slider": "https://raw.githubusercontent.com/tr-series/tr-ar/b_ms_group_turkish_ar_1_slider/",
-        "url_category_series": "https://raw.githubusercontent.com/tr-series/tr-ar/c_ms_group_turkish_ar_1_series_v2/"
+        "url_category_slider": "0_ms_1_slider/",
+        "url_category_series": "0_ms_1_series/"
       },
       {
         "category_title": "مسلسلات تركية",
-        "url_category_slider": "https://raw.githubusercontent.com/tr-series/tr-ar/b_ms_group_turkish_ar_1_slider/",
-        "url_category_series": "https://raw.githubusercontent.com/tr-series/tr-ar/c_ms_group_turkish_ar_1_series_v2/"
+        "url_category_slider": "0_ms_1_slider/",
+        "url_category_series": "0_ms_1_series/"
       },
       {
         "category_title": "مسلسلات تركية",
-        "url_category_slider": "https://raw.githubusercontent.com/tr-series/tr-ar/b_ms_group_turkish_ar_1_slider/",
-        "url_category_series": "https://raw.githubusercontent.com/tr-series/tr-ar/c_ms_group_turkish_ar_1_series_v2/"
+        "url_category_slider": "0_ms_1_slider/",
+        "url_category_series": "0_ms_1_series/"
+      },
+      {
+        "category_title": "مسلسلات تركية",
+        "url_category_slider": "0_ms_1_slider/",
+        "url_category_series": "0_ms_1_series/"
       }
     ]
   }
