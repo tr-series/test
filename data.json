@@ -1,63 +1,43 @@
 [
   {
-    "setting": [
+    "slide_title": "نجمة الشمال موسم 2 الحلقة 45",
+    "slide_image": "https://raw.githubusercontent.com/tr-series/tr-ar/zzzzz_ms_group_turkish_ar_1_app_thumbnail/z_ngmt_al4mal.jpg",
+    "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html",
+    "server_player": [
       {
-        "url_more_my_apps": "https://play.google.com/store/apps/dev?id=5907790824117940693",
-        "url_contact_us": "https://docs.google.com/forms/d/e/1FAIpQLSd75_YDetXFz1X3T05IahgYK_oPFGqfrkKNch9HAfLC-heioQ/viewform?usp=sf_link",
-        "url_share_app": "https://play.google.com/store/apps/details?id=com.ms_series.turkish_ar_1",
-        "startApp_native_ad": "true",
-        "startApp_btn_native_ad": "true",
-        "startApp_interstitial_ad": "false",
-        "url_new_version": "",
-        "new_version_code": "1",
-        "js_player": "",
-        "js_summary": "var page_1 = $('a:contains(link)')[0];if (typeof page_1 !== 'undefined') {page_1.click();}"
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-w2rdjnnbcyf2.html' frameborder='0' allow='autoplay'></iframe>"
+      },
+      {
+        "server_title": "سيرفر 2",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://extremenow.net/embed-w3uw0jwjun4c.html' frameborder='0' allow='autoplay'></iframe>"
+      },
+      {
+        "server_title": "سيرفر 3",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8980705' frameborder='0' allow='autoplay'></iframe>"
       }
     ]
   },
   {
-    "main_url": [
+    "slide_title": "زهرة الثالوث موسم 2 الحلقة 53",
+    "slide_image": "https://raw.githubusercontent.com/tr-series/tr-ar/zzzzz_ms_group_turkish_ar_1_app_thumbnail/z_zhrt_althalwth.jpg",
+    "video_summary": "https://ms-serieses.blogspot.com/2020/10/story-of-osman.html",
+    "server_player": [
       {
-        "url": ""
+        "server_title": "سيرفر 1",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://www.ok.ru/videoembed/2339426339443' frameborder='0' allow='autoplay'></iframe>"
       },
       {
-        "url": ""
+        "server_title": "سيرفر 2",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://arabveturk.com/embed-gslwmhmx1fa9.html' frameborder='0' allow='autoplay'></iframe>"
       },
       {
-        "url": ""
+        "server_title": "سيرفر 3",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://extremenow.net/embed-6oz2151s5h4c.html' frameborder='0' allow='autoplay'></iframe>"
       },
       {
-        "url": ""
-      },
-      {
-        "url": ""
-      },
-      {
-        "url": ""
-      }
-    ]
-  },
-  {
-    "category": [
-      {
-        "category_title": "مسلسلات تركية",
-        "url_category_slider": "https://raw.githubusercontent.com/tr-series/tr-ar/b_ms_group_turkish_ar_1_slider/",
-        "url_category_series": "https://raw.githubusercontent.com/tr-series/tr-ar/c_ms_group_turkish_ar_1_series_v2/"
-      },
-      {
-        "category_title": "مسلسلات تركية",
-        "url_category_slider": "https://raw.githubusercontent.com/tr-series/tr-ar/b_ms_group_turkish_ar_1_slider/",
-        "url_category_series": "https://raw.githubusercontent.com/tr-series/tr-ar/c_ms_group_turkish_ar_1_series_v2/"
-      },
-      {
-        "category_title": "مسلسلات تركية",
-        "url_category_slider": "https://raw.githubusercontent.com/tr-series/tr-ar/b_ms_group_turkish_ar_1_slider/",
-        "url_category_series": "https://raw.githubusercontent.com/tr-series/tr-ar/c_ms_group_turkish_ar_1_series_v2/"
-      },
-      {
-        "category_title": "مسلسلات تركية",
-        "url_category_slider": "https://raw.githubusercontent.com/tr-series/tr-ar/b_ms_group_turkish_ar_1_slider/",
-        "url_category_series": "https://raw.githubusercontent.com/tr-series/tr-ar/c_ms_group_turkish_ar_1_series_v2/"
+        "server_title": "سيرفر 4",
+        "server_link": "<iframe allowfullscreen='true' webkitallowfullscreen='true' mozallowfullscreen='true' width='100%' height='100%' src='https://esheeq.net/emb?serv=8980313' frameborder='0' allow='autoplay'></iframe>"
       }
     ]
   }
