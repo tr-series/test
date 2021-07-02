@@ -18,19 +18,19 @@
   {
     "main_url": [
       {
+        "url": "https://ms-serieses.blogspot.com/"
+      },
+      {
         "url": "https://raw.githubusercontent.com/tr-series/test/"
       },
       {
-        "url": ""
+        "url": "https://raw.githubusercontent.com/tr-series/tr-ar/zzzzz_ms_group_turkish_ar_1_app_poster/"
       },
       {
-        "url": ""
+        "url": "https://raw.githubusercontent.com/tr-series/tr-ar/"
       },
       {
-        "url": ""
-      },
-      {
-        "url": ""
+        "url": "https://raw.githubusercontent.com/tr-series/tr-ar/zzzzz_ms_group_turkish_ar_1_app_thumbnail/"
       },
       {
         "url": ""
@@ -41,28 +41,38 @@
     "category": [
       {
         "category_title": "مسلسلات تركية",
-        "url_category_slider": "0_ms_1_slider/",
-        "url_category_series": "0_ms_1_series/"
+        "url_category_slider": "1_ms_1_slider/",
+        "url_category_series": "1_ms_1_series/",
+        "series_thumbnail": "4_tv_thumbnail.jpg",
+        "video_summary": "0_2020/10/story-of-osman.html"
       },
       {
         "category_title": "مسلسلات تركية",
-        "url_category_slider": "0_ms_1_slider/",
-        "url_category_series": "0_ms_1_series/"
+        "url_category_slider": "1_ms_1_slider/",
+        "url_category_series": "1_ms_1_series/",
+        "series_thumbnail": "4_tv_thumbnail.jpg",
+        "video_summary": "0_2020/10/story-of-osman.html"
       },
       {
         "category_title": "مسلسلات تركية",
-        "url_category_slider": "0_ms_1_slider/",
-        "url_category_series": "0_ms_1_series/"
+        "url_category_slider": "1_ms_1_slider/",
+        "url_category_series": "1_ms_1_series/",
+        "series_thumbnail": "4_tv_thumbnail.jpg",
+        "video_summary": "0_2020/10/story-of-osman.html"
       },
       {
         "category_title": "مسلسلات تركية",
-        "url_category_slider": "0_ms_1_slider/",
-        "url_category_series": "0_ms_1_series/"
+        "url_category_slider": "1_ms_1_slider/",
+        "url_category_series": "1_ms_1_series/",
+        "series_thumbnail": "4_tv_thumbnail.jpg",
+        "video_summary": "0_2020/10/story-of-osman.html"
       },
       {
         "category_title": "مسلسلات تركية",
-        "url_category_slider": "0_ms_1_slider/",
-        "url_category_series": "0_ms_1_series/"
+        "url_category_slider": "1_ms_1_slider/",
+        "url_category_series": "1_ms_1_series/",
+        "series_thumbnail": "4_tv_thumbnail.jpg",
+        "video_summary": "0_2020/10/story-of-osman.html"
       }
     ]
   }
