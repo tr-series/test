@@ -2,8 +2,27 @@
 {
     "category": [
     {
-        "category_title": "مسلسلات تركية"
-    }]
+        "category_title": "مسلسلات تركية",
+        "url_category_slider": "https://raw.githubusercontent.com/tr-series/tr-ar/b_ms_group_turkish_ar_1_slider/",
+        "url_category_series": "https://raw.githubusercontent.com/tr-series/tr-ar/c_ms_group_turkish_ar_1_series_v2/"
+    },
+    {
+        "category_title": "مسلسلات تركية",
+        "url_category_slider": "https://raw.githubusercontent.com/tr-series/tr-ar/b_ms_group_turkish_ar_1_slider/",
+        "url_category_series": "https://raw.githubusercontent.com/tr-series/tr-ar/c_ms_group_turkish_ar_1_series_v2/"
+    },
+    {
+        "category_title": "مسلسلات تركية",
+        "url_category_slider": "https://raw.githubusercontent.com/tr-series/tr-ar/b_ms_group_turkish_ar_1_slider/",
+        "url_category_series": "https://raw.githubusercontent.com/tr-series/tr-ar/c_ms_group_turkish_ar_1_series_v2/"
+    },
+    {
+        "category_title": "مسلسلات تركية",
+        "url_category_slider": "https://raw.githubusercontent.com/tr-series/tr-ar/b_ms_group_turkish_ar_1_slider/",
+        "url_category_series": "https://raw.githubusercontent.com/tr-series/tr-ar/c_ms_group_turkish_ar_1_series_v2/"
+    }
+    
+    ]
 },
 {
     "setting": [
