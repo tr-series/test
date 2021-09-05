@@ -1,7 +1,7 @@
 [
   {
     "slidePrice": "مجانية",
-    "slideGrade": "الأول",
+    "slideGrade": "الصف الأول",
     "slideTitle": "لغة عربية الحصة 5",
     "slideImage": "https://parentslib.org/img/1.jpg",
     "slideVideoUrl": "",
@@ -9,7 +9,7 @@
   },
   {
     "slidePrice": "مدفوعة",
-    "slideGrade": "الثالث",
+    "slideGrade": "الصف الثالث",
     "slideTitle": "رياضيات الحصة 7",
     "slideImage": "https://img.jakpost.net/c/2019/03/02/2019_03_02_66706_1551461528._large.jpg",
     "slideVideoUrl": "",
@@ -17,8 +17,8 @@
   },
   {
     "slidePrice": "مجانية",
-    "slideGrade": "الثاني",
-    "slideTitle": "كيمياء",
+    "slideGrade": "الصف الثاني",
+    "slideTitle": "كيمياء الحصة 3",
     "slideImage": "https://www.ukrgate.com/eng/wp-content/uploads/2021/02/The-Ukrainian-Book-Institute-Purchases-380.9-Thousand-Books-for-Public-Libraries1.jpeg",
     "slideVideoUrl": "",
     "slidePdfUrl": ""
